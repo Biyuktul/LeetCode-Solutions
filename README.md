@@ -6,8 +6,6 @@
 
 ## Introduction
 
-![leetcode.jpeg](https://tva1.sinaimg.cn/large/007S8ZIlly1ghltwf4xivj30dw0780sm.jpg)
-
 LeetCode Solutions: A Journey of Problem Solving. 
 
 ## About me
